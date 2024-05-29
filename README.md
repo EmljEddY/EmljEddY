@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmljEddY
 - 👀 I’m interested in coding, playing guitar, playing games, watching mango
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning php laravel, c# asp.net core MVC 
 - 💞️ I’m looking to collaborate on c#
 - 📫 How to reach me emljeddy2@outlook.com
 - 😄 Pronouns: ...
