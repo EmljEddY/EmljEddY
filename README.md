@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @EmljEddY
-- 👀 I’m interested in coding, playing guitar, playing games, watching mango
+- 👋 Hi, I’m @EmljEddy
+- 👀 I’m interested in coding, playing guitar, playing games, watching manga
 - 🌱 I’m currently learning php laravel, c# asp.net core MVC 
 - 💞️ I’m looking to collaborate on c#
 - 📫 How to reach me emljeddy2@outlook.com
